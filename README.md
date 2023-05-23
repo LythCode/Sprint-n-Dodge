@@ -20,4 +20,8 @@ Space - Sprint ( Tap instead of holding )
 
 [![code.png](https://i.postimg.cc/5yv71d6d/code.png)](https://postimg.cc/RJSQQY7X)
 
+**If you want to change the enemy speed than edit the seccond number on the velocity line to what ever you like.**
+
+[![enemy.png](https://i.postimg.cc/vTJmg9Yx/enemy.png)](https://postimg.cc/tnzb8sV9)
+
 **Have Fun!**
