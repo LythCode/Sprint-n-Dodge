@@ -1,5 +1,7 @@
 # Sprint 'n Dodge
-This is a simple game written in python where the player can move arround and eat the red dots which give them points, when all the dots are eaten the level will advance and summon more dots. 
+This is a simple game written in python where the player can move arround and eat the red dots which give them points, when all the dots are eaten the level will advance and summon more dots.
+
+The only requirements are that you have pygame installed.
 
 ## Controls
 Up Arrow - Up
